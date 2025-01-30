@@ -1,5 +1,7 @@
 #CRUD Operations Web App (React + Node.js + Express + MongoDB)
 <br>
+<br>
+<br>
 📌 Overview
 This project is a full-stack CRUD (Create, Read, Update, Delete) application built using React.js for the frontend and Node.js + Express.js for the backend. The application is designed to handle basic data operations, with MongoDB as the database. The UI experience is enhanced using React-Toasters for real-time notifications and SweetAlert2 for interactive alerts, ensuring better user engagement.
 <br>
@@ -26,6 +28,7 @@ dotenv – Manages environment variables securely.
 ✔️ SweetAlert2 Integration – Adds smooth and engaging confirmation popups.
 <br>
 🔧 CRUD Operations Breakdown
+<br>
 1️⃣ CREATE (POST Request)
 Users can enter details into a form to create a new record.
 Upon form submission, data is validated and sent to the backend.
